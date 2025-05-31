@@ -17,7 +17,7 @@ InsightCrunch isn’t just a chatbot—it’s your research partner. When you pr
 * Prioritized pain points
 * Actionable product recommendations
 * Signals & sentiment analysis
-* Urgent issues (flagged with 🚩 if needed)
+* Urgent issues
 * Opportunity notes (optional)
 
 This transforms messy feedback into clear direction—helping you build better products, faster.
@@ -48,7 +48,7 @@ This transforms messy feedback into clear direction—helping you build better p
 ## Usage & Demo
 
 Try it now on Poe.com:
-👉 [Demo Link: poe.com/InsightCrunch](https://poe.com/InsightCrunch)
+[Demo Link: poe.com/InsightCrunch](https://poe.com/InsightCrunch)
 
 **Steps to Use:**
 
@@ -83,12 +83,12 @@ Try it now on Poe.com:
 **Example Output:**
 
 ```
-**🔍 Thematic Clusters**  
+**Thematic Clusters**  
 1. Stability & Performance: Users report frequent crashes and slow load times.  
 2. Navigation & UX: Confusion around the new dashboard layout.  
 3. Feature Gaps: Requests for more integrations with other tools.  
 
-**🔥 Prioritized Pain Points**  
+**Prioritized Pain Points**  
 - Stability & Performance  
   • Crashes after update (high priority)  
   • Slow load times (medium priority)  
@@ -99,7 +99,7 @@ Try it now on Poe.com:
 - Feature Gaps  
   • Desire for more integrations (medium priority)  
 
-**💡 Suggested Product Actions**  
+**Suggested Product Actions**  
 - Stability & Performance  
   • Investigate crash logs and deploy hotfix for stability.  
   • Optimize load times with caching or code improvements.  
@@ -110,14 +110,14 @@ Try it now on Poe.com:
 - Feature Gaps  
   • Evaluate most requested integrations and prioritize development.
 
-**📈 Signals & Sentiment**  
+**Signals & Sentiment**  
 - Overall tone: Frustrated but hopeful.  
 - Emotions: Frustration over crashes, confusion with UI, appreciation for support.  
 
-**🚩 Urgent Issues**  
+**Urgent Issues**  
 - Frequent crashes post-update impacting user trust.
 
-**🌟 Opportunity Notes**  
+**Opportunity Notes**  
 - Users value integrations—potential growth opportunity.
 
 ```
